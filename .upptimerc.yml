@@ -1,6 +1,5 @@
-# Change these first
-owner: NyaruDB # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: NyaruDB
+repo: status
 
 sites:
   - name: Nyaru (Main)
@@ -8,11 +7,16 @@ sites:
   - name: Nyaru (Docs)
     url: https://docs.nyaru.xyz
 
+assignees:
+  - NamVr
+  - Sarveshmrao
+  - Mr-Leonerrr
+  - KrishGarg
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nyaru.xyz
-  # baseUrl: /your-repo-name
+  theme: dark
+  favicon: https://cdn.nyaru.xyz/Nyaru/Nyaru_Square.png
   logoUrl: https://cdn.nyaru.xyz/Nyaru/Nyaru_Square.png
   name: Nyaru Monitoring™
   introTitle: "Live Status Monitoring of Nyaru Services."
@@ -22,6 +26,3 @@ status-website:
       href: https://nyaru.xyz/
     - title: Discord
       href: https://go.nyaru.xyz/discord
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
