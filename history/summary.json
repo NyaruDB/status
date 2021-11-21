@@ -4,7 +4,7 @@
     "url": "https://nyaru.xyz",
     "icon": "https://favicons.githubusercontent.com/nyaru.xyz",
     "slug": "nyaru-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,9 +13,11 @@
     "time": 550,
     "timeDay": 656,
     "timeWeek": 569,
-    "timeMonth": 550,
+    "timeMonth": 536,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-21": 0
+    }
   },
   {
     "name": "Nyaru (Docs)",
@@ -31,7 +33,7 @@
     "time": 315,
     "timeDay": 226,
     "timeWeek": 391,
-    "timeMonth": 315,
+    "timeMonth": 302,
     "timeYear": 315,
     "dailyMinutesDown": {}
   }
