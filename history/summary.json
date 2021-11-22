@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/nyaru.xyz",
     "slug": "nyaru-main",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 553,
-    "timeDay": 655,
-    "timeWeek": 580,
-    "timeMonth": 540,
-    "timeYear": 553,
-    "dailyMinutesDown": {
-      "2021-11-21": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 556,
+    "timeDay": 657,
+    "timeWeek": 581,
+    "timeMonth": 549,
+    "timeYear": 556,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nyaru (Docs)",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 226,
-    "timeWeek": 391,
-    "timeMonth": 302,
-    "timeYear": 315,
+    "time": 312,
+    "timeDay": 215,
+    "timeWeek": 399,
+    "timeMonth": 304,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   }
 ]
