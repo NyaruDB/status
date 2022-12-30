@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/nyaru.xyz",
     "slug": "nyaru-main",
     "status": "up",
-    "uptime": "96.23%",
+    "uptime": "96.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.98%",
-    "time": 415,
+    "uptimeYear": "96.25%",
+    "time": 414,
     "timeDay": 92,
-    "timeWeek": 112,
-    "timeMonth": 187,
-    "timeYear": 390,
+    "timeWeek": 110,
+    "timeMonth": 184,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2022-07-28": 42,
       "2022-07-02": 17,
@@ -34,8 +34,7 @@
       "2022-01-03": 1440,
       "2022-01-02": 1440,
       "2022-01-01": 1440,
-      "2021-12-31": 1440,
-      "2021-12-30": 1440
+      "2021-12-31": 1440
     }
   },
   {
@@ -50,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 278,
-    "timeDay": 170,
-    "timeWeek": 156,
-    "timeMonth": 194,
-    "timeYear": 283,
+    "timeDay": 95,
+    "timeWeek": 155,
+    "timeMonth": 187,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2022-07-02": 17,
       "2022-07-01": 61,
